@@ -3,7 +3,11 @@
 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝑶𝒏 **𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒆𝒓𝑿**<br>
 
 <a href="https://github.com/Defectiveleo/ConverterX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defectiveleo&repo=ConverterX&theme=dark&hide_border=true" />
+
+<h3>⚡ ConverterX</h3>
+
+<p>Modern Python converter with a clean and customizable interface</p>
+
 </a>
 
 # 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
