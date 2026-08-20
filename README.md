@@ -1,7 +1,10 @@
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝑶𝒏 **𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒆𝒓𝑿**<br>
-https://github.com/Defectiveleo/ConverterX
+
+<a href="https://github.com/Defectiveleo/ConverterX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defectiveleo&repo=ConverterX&theme=dark&hide_border=true" />
+</a>
 
 # 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
