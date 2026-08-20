@@ -1,21 +1,8 @@
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
-𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝑶𝒏 **𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒆𝒓𝑿**<br>
+## ✦ Currently Working On
 
-<a href="https://github.com/Defectiveleo/ConverterX">
-
-<h3>⚡ ConverterX</h3>
-
-<p>Modern Python converter with a clean and customizable interface</p>
-
-</a>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
+[ConverterX](https://github.com/Defectiveleo/ConverterX)
 
 # 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
